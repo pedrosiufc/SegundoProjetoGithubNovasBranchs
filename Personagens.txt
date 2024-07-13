@@ -1,6 +1,6 @@
 Luke Skywalker
 Obi Wan Kenobi
-Mester Ioda
+Mestre Ioda
 Leia Organa
 Chewbacca
 Han Solo
@@ -9,4 +9,4 @@ Ben Solo
 Rey
 Finn
 Kylo Ren
-
+Poe Dameron
